@@ -4,7 +4,7 @@ export default function Gallery() {
       <div className="mx-auto max-w-7xl">
         <div className="flex flex-col justify-between gap-6 lg:flex-row lg:items-end">
           <div>
-            <span data-reveal="" className="inline-flex rounded-full bg-[#1f6f49] px-3 py-1 text-xs font-semibold text-white" style={{ filter: "blur(12px)", opacity: 0 }}>Di dalam kafe</span>
+            <span data-reveal="" className="inline-flex rounded-full bg-[#995F2F] px-3 py-1 text-xs font-semibold text-white" style={{ filter: "blur(12px)", opacity: 0 }}>Di dalam kafe</span>
             <h2 data-mask-reveal="" className="mt-4 max-w-3xl text-4xl font-light leading-none tracking-tight sm:text-5xl lg:text-6xl" style={{ fontFamily: "'Instrument Serif', Georgia, serif" }} aria-label="Cahaya lembut, roti segar, sentuhan tanaman hijau">Cahaya lembut, roti segar, sentuhan tanaman hijau</h2>
           </div>
           <p data-reveal="" className="max-w-md text-base leading-7 text-black/62" style={{ filter: "blur(12px)", opacity: 0 }}>
