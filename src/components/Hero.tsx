@@ -62,7 +62,7 @@ export default function Hero() {
           </div>
 
           <div className="overflow-hidden rounded-[2rem] bg-[#e9eadf] p-3 shadow-[0_2.8px_2.2px_rgba(0,_0,_0,_0.034),_0_6.7px_5.3px_rgba(0,_0,_0,_0.048),_0_12.5px_10px_rgba(0,_0,_0,_0.06),_0_22.3px_17.9px_rgba(0,_0,_0,_0.072),_0_41.8px_33.4px_rgba(0,_0,_0,_0.086),_0_100px_80px_rgba(0,_0,_0,_0.12)]">
-            <video src="/assets/asset_s73ry2.mp4" poster="/assets/asset_gpm13o.png" data-aura-generated-video="true" data-aura-video-preset="loop-in-view" muted={true} playsInline={true} preload="metadata" loop={true} aria-label="Barista menuangkan seni latte di District Coffee" className="h-[32rem] w-full rounded-[1.5rem] object-cover transition duration-700 hover:scale-[1.035]"></video>
+            <video src="/assets/asset_s73ry2.mp4" poster="/assets/asset_gpm13o.jpg" data-aura-generated-video="true" data-aura-video-preset="loop-in-view" muted={true} playsInline={true} preload="metadata" loop={true} aria-label="Barista menuangkan seni latte di District Coffee" className="h-[32rem] w-full rounded-[1.5rem] object-cover transition duration-700 hover:scale-[1.035]"></video>
           </div>
 
           <div className="absolute -bottom-6 right-4 max-w-xs rounded-2xl border border-white/70 bg-white/90 p-4 shadow-[0px_0px_0px_1px_rgba(0,0,0,0.06),0px_1px_1px_-0.5px_rgba(0,0,0,0.06),0px_3px_3px_-1.5px_rgba(0,0,0,0.06),_0px_6px_6px_-3px_rgba(0,0,0,0.06),0px_12px_12px_-6px_rgba(0,0,0,0.06),0px_24px_24px_-12px_rgba(0,0,0,0.06)] backdrop-blur sm:right-8">

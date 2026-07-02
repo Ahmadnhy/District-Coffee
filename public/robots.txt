@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://district-coffee.com/sitemap.xml
+Sitemap: https://districtcoffee.vercel.app/sitemap.xml

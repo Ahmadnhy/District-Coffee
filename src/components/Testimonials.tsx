@@ -60,7 +60,7 @@ export default function Testimonials() {
         </div>
 
         <div data-reveal="" className="mt-8 grid gap-5 rounded-[2rem] bg-[#17191f] p-5 text-white lg:grid-cols-[0.8fr_1.2fr] lg:p-8">
-          <video src="/assets/asset_3cb3uj.mp4" poster="/assets/asset_pnrd90.png" data-aura-generated-video="true" data-aura-video-preset="loop-in-view" muted={true} playsInline={true} preload="metadata" loop={true} aria-label="Interior kedai kopi yang nyaman" className="h-80 w-full rounded-3xl object-cover lg:h-full"></video>
+          <img src="/assets/asset_pnrd90.jpg" alt="Interior kedai kopi yang nyaman" className="h-80 w-full rounded-3xl object-cover lg:h-full" />
           <div className="flex flex-col justify-center rounded-3xl bg-white/5 p-6">
             <p className="text-xs font-semibold uppercase tracking-[0.18em] text-[#b9d9ab]">Bukti nyata</p>
             <p className="mt-5 text-4xl font-light leading-tight tracking-tight sm:text-5xl" style={{ fontFamily: "'Instrument Serif', Georgia, serif" }}>

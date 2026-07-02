@@ -26,7 +26,7 @@ export default function About() {
         <div data-reveal="" className="grid gap-5 sm:grid-cols-2">
           <div className="flex h-full flex-col gap-5">
             <div data-card="" className="rounded-3xl bg-[#e9eadf] p-4 shadow-[0px_0px_0px_1px_rgba(0,0,0,0.06),0px_1px_1px_-0.5px_rgba(0,0,0,0.06),0px_3px_3px_-1.5px_rgba(0,0,0,0.06),_0px_6px_6px_-3px_rgba(0,0,0,0.06),0px_12px_12px_-6px_rgba(0,0,0,0.06),0px_24px_24px_-12px_rgba(0,0,0,0.06)] transition duration-500 hover:-translate-y-2" style={{ transformOrigin: "50% 50%" }}>
-              <video src="/assets/asset_6ytepo.mp4" poster="/assets/asset_jzev17.png" data-aura-generated-video="true" data-aura-video-preset="loop-in-view" muted={true} playsInline={true} preload="metadata" loop={true} aria-label="Kepala barista sedang mencicipi espresso" className="h-64 w-full rounded-2xl object-cover"></video>
+              <img src="/assets/asset_jzev17.jpg" alt="Kepala barista sedang mencicipi espresso" className="h-64 w-full rounded-2xl object-cover" />
               <p className="mt-4 text-sm font-medium">Nico Vale</p>
               <p className="text-xs text-black/50">Kepala barista</p>
             </div>
@@ -43,7 +43,7 @@ export default function About() {
               <p className="mt-5 text-3xl font-light leading-tight tracking-tight" style={{ fontFamily: "'Instrument Serif', Georgia, serif" }}>Membuat kopi berkualitas terasa ramah, konsisten, dan berkesan secara tenang.</p>
             </div>
             <div data-card="" className="rounded-3xl bg-[#dce5d6] p-4 shadow-[0px_0px_0px_1px_rgba(0,0,0,0.06),0px_1px_1px_-0.5px_rgba(0,0,0,0.06),0px_3px_3px_-1.5px_rgba(0,0,0,0.06),_0px_6px_6px_-3px_rgba(0,0,0,0.06),0px_12px_12px_-6px_rgba(0,0,0,0.06),0px_24px_24px_-12px_rgba(0,0,0,0.06)] transition duration-500 hover:-translate-y-2" style={{ transformOrigin: "50% 50%" }}>
-              <video src="/assets/asset_mnzwv4.mp4" poster="/assets/asset_wm4ih4.png" data-aura-generated-video="true" data-aura-video-preset="loop-in-view" muted={true} playsInline={true} preload="metadata" loop={true} aria-label="Koki pastry sedang menyiapkan adonan" className="h-72 w-full rounded-2xl object-cover"></video>
+              <img src="/assets/asset_wm4ih4.jpg" alt="Koki pastry sedang menyiapkan adonan" className="h-72 w-full rounded-2xl object-cover" />
               <p className="mt-4 text-sm font-semibold">Iris Chen</p>
               <p className="text-xs text-black/50">Pimpinan pastry</p>
             </div>
