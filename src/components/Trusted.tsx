@@ -4,7 +4,7 @@ export default function Trusted() {
   return (
     <section id="trusted" className="border-y border-black/5 bg-[#f7f7f3] px-5 py-16 sm:px-8 lg:px-10">
       <div className="mx-auto max-w-7xl">
-        <p data-reveal="" className="text-center text-xs font-semibold uppercase tracking-[0.18em] text-black/45">Beans, tools, and creative neighbors trusted by global teams</p>
+        <p data-reveal="" className="text-center text-xs font-semibold uppercase tracking-[0.18em] text-black/45">Biji kopi, peralatan, dan rekan kreatif yang dipercayai oleh tim global</p>
         <div className="relative mt-10 flex w-full overflow-hidden py-4" style={{ WebkitMaskImage: "linear-gradient(to right, transparent, black 10%, black 90%, transparent)", maskImage: "linear-gradient(to right, transparent, black 10%, black 90%, transparent)" }}>
           
           <div className="animate-marquee-scroll flex w-max">
