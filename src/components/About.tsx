@@ -26,13 +26,13 @@ export default function About() {
         <div data-reveal="" className="grid gap-5 sm:grid-cols-2">
           <div className="flex h-full flex-col gap-5">
             <div data-card="" className="rounded-3xl bg-[#e9eadf] p-4 shadow-[0px_0px_0px_1px_rgba(0,0,0,0.06),0px_1px_1px_-0.5px_rgba(0,0,0,0.06),0px_3px_3px_-1.5px_rgba(0,0,0,0.06),_0px_6px_6px_-3px_rgba(0,0,0,0.06),0px_12px_12px_-6px_rgba(0,0,0,0.06),0px_24px_24px_-12px_rgba(0,0,0,0.06)] transition duration-500 hover:-translate-y-2" style={{ transformOrigin: "50% 50%" }}>
-              <img src="/assets/asset_jzev17.jpg" alt="Kepala barista sedang mencicipi espresso" className="h-64 w-full rounded-2xl object-cover" />
-              <p className="mt-4 text-sm font-medium">Nico Vale</p>
-              <p className="text-xs text-black/50">Kepala barista</p>
+              <img src="/assets/barista.png" alt="Kepala barista sedang menyeduh kopi" className="h-64 w-full rounded-2xl object-cover" />
+              <p className="mt-4 text-sm font-medium">Ahmad nh</p>
+              <p className="text-xs text-black/50">Kepala Barista</p>
             </div>
             <div data-card="" className="flex flex-1 flex-col justify-between rounded-3xl bg-[#17191f] p-6 text-white shadow-[0px_0px_0px_1px_rgba(0,0,0,0.06),0px_1px_1px_-0.5px_rgba(0,0,0,0.06),0px_3px_3px_-1.5px_rgba(0,0,0,0.06),_0px_6px_6px_-3px_rgba(0,0,0,0.06),0px_12px_12px_-6px_rgba(0,0,0,0.06),0px_24px_24px_-12px_rgba(0,0,0,0.06)] transition duration-500 hover:-translate-y-2" style={{ transformOrigin: "50% 50%" }}>
               <Icon icon="solar:medal-ribbons-star-linear" strokeWidth={1.5} className="text-3xl text-[#c7966e]" />
-              <img src="/assets/asset_mabkrx.jpg" alt="Biji kopi yang baru disangrai" className="mt-6 h-40 w-full rounded-2xl object-cover opacity-90 transition-opacity duration-300 hover:opacity-100" />
+              <img src="/assets/coffee.png" alt="Biji kopi yang baru disangrai" className="mt-6 h-40 w-full rounded-2xl object-cover opacity-90 transition-opacity duration-300 hover:opacity-100" />
               <p className="mt-6 text-3xl font-extralight leading-none tracking-tight" style={{ fontFamily: "'Instrument Serif', Georgia, serif" }}>Disangrai dalam waktu tujuh hari sebelum disajikan.</p>
             </div>
           </div>
@@ -43,9 +43,9 @@ export default function About() {
               <p className="mt-5 text-3xl font-light leading-tight tracking-tight" style={{ fontFamily: "'Instrument Serif', Georgia, serif" }}>Membuat kopi berkualitas terasa ramah, konsisten, dan berkesan secara tenang.</p>
             </div>
             <div data-card="" className="rounded-3xl bg-[#e8d5c4] p-4 shadow-[0px_0px_0px_1px_rgba(0,0,0,0.06),0px_1px_1px_-0.5px_rgba(0,0,0,0.06),0px_3px_3px_-1.5px_rgba(0,0,0,0.06),_0px_6px_6px_-3px_rgba(0,0,0,0.06),0px_12px_12px_-6px_rgba(0,0,0,0.06),0px_24px_24px_-12px_rgba(0,0,0,0.06)] transition duration-500 hover:-translate-y-2" style={{ transformOrigin: "50% 50%" }}>
-              <img src="/assets/asset_wm4ih4.jpg" alt="Koki pastry sedang menyiapkan adonan" className="h-72 w-full rounded-2xl object-cover" />
-              <p className="mt-4 text-sm font-semibold">Iris Chen</p>
-              <p className="text-xs text-black/50">Pimpinan pastry</p>
+              <img src="/assets/barista_female.png" alt="Sajian pastry lezat di piring" className="h-72 w-full rounded-2xl object-cover" />
+              <p className="mt-4 text-sm font-semibold">Jang Won Young</p>
+              <p className="text-xs text-black/50">Pimpinan Pastry</p>
             </div>
           </div>
         </div>

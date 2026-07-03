@@ -50,7 +50,7 @@ export default function Menu() {
 
         <div data-reveal="" className="mt-10 grid gap-5 rounded-[2rem] bg-[#e8d5c4] p-5 lg:grid-cols-[1fr_0.8fr] lg:p-8">
           <div className="overflow-hidden rounded-3xl">
-            <img src="/assets/asset_autzg1.jpg" alt="Iced Pistachio Latte" className="h-80 w-full object-cover transition duration-700 hover:scale-105 lg:h-full" />
+            <img src="/assets/black_honey.png" alt="Iced Pistachio Latte" className="h-80 w-full object-cover transition duration-700 hover:scale-105 lg:h-full" />
           </div>
           <div className="flex flex-col justify-between rounded-3xl bg-white p-6 shadow-[0px_2px_3px_-1px_rgba(0,0,0,0.1),0px_1px_0px_0px_rgba(25,28,33,0.02),0px_0px_0px_1px_rgba(25,28,33,0.08)]">
             <div className="">

@@ -5,7 +5,7 @@ export default function Header() {
   const [activeSection, setActiveSection] = useState<string>('');
 
   useEffect(() => {
-    const sections = ['menu', 'testimonials', 'about', 'gallery', 'visit'];
+    const sections = ['top', 'menu', 'testimonials', 'about', 'gallery', 'visit'];
     
     const observerOptions = {
       root: null,
@@ -27,10 +27,6 @@ export default function Header() {
       const el = document.getElementById(id);
       if (el) observer.observe(el);
     });
-
-    // Also track top hero section to clear highlights
-    const topEl = document.getElementById('top');
-    if (topEl) observer.observe(topEl);
 
     return () => {
       observer.disconnect();
@@ -54,6 +50,7 @@ export default function Header() {
         </a>
 
         <div className="hidden items-center gap-8 md:flex">
+          <a href="#top" data-interactive="" className={getLinkClass('top')}>Beranda</a>
           <a href="#menu" data-interactive="" className={getLinkClass('menu')}>Menu</a>
           <a href="#testimonials" data-interactive="" className={getLinkClass('testimonials')}>Ulasan</a>
           <a href="#about" data-interactive="" className={getLinkClass('about')}>Tentang Kami</a>

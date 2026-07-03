@@ -22,7 +22,7 @@ export default function Testimonials() {
             </div>
             <p className="mt-8 text-2xl font-light leading-8 tracking-tight text-black/80" style={{ fontFamily: "'Instrument Serif', Georgia, serif" }}>“District Coffee memiliki perpaduan langka antara kopi berkualitas tinggi dan kesederhanaan. Menu kopi filternya luar biasa indah.”</p>
             <div className="mt-8 flex items-center gap-3 border-t border-black/10 pt-5">
-              <img src="/assets/asset_y5khf5.jpg" alt="Guest Lina Ortiz" className="h-12 w-12 rounded-full object-cover" />
+              <img src="/assets/customer2.jpg" alt="Guest Lina Ortiz" className="h-12 w-12 rounded-full object-cover" />
               <div>
                 <p className="text-sm font-semibold">Lina Ortiz</p>
                 <p className="text-xs text-black/50">Pengrajin Keramik</p>
@@ -36,7 +36,7 @@ export default function Testimonials() {
             </div>
             <p className="mt-8 text-2xl font-light leading-8 tracking-tight text-black/80" style={{ fontFamily: "'Instrument Serif', Georgia, serif" }}>“Saya sering membawa klien ke sini karena suasananya terasa dirancang dengan baik. Cukup tenang untuk berpikir, cukup hangat untuk betah berlama-lama.”</p>
             <div className="mt-8 flex items-center gap-3 border-t border-black/10 pt-5">
-              <img src="/assets/asset_46rwjz.jpg" alt="Guest Theo Park" className="h-12 w-12 rounded-full object-cover" />
+              <img src="/assets/customer3.jpg" alt="Guest Theo Park" className="h-12 w-12 rounded-full object-cover" />
               <div className="">
                 <p className="text-sm font-semibold">Theo Park</p>
                 <p className="text-xs text-black/50">Pendiri Studio</p>
@@ -50,7 +50,7 @@ export default function Testimonials() {
             </div>
             <p className="mt-8 text-2xl font-light leading-8 tracking-tight text-black/80" style={{ fontFamily: "'Instrument Serif', Georgia, serif" }}>“Roti cardamom di sini adalah alasan yang cukup bagi saya untuk menyeberangi kota. Tambahkan secangkir cappuccino dan semuanya menjadi sempurna.”</p>
             <div className="mt-8 flex items-center gap-3 border-t border-black/10 pt-5">
-              <img src="/assets/asset_k72o7f.jpg" alt="Guest Amara Bell" className="h-12 w-12 rounded-full object-cover" />
+              <img src="/assets/customer4.jpg" alt="Guest Amara Bell" className="h-12 w-12 rounded-full object-cover" />
               <div>
                 <p className="text-sm font-semibold">Amara Bell</p>
                 <p className="text-xs text-black/50">Penulis Kuliner</p>
@@ -60,7 +60,7 @@ export default function Testimonials() {
         </div>
 
         <div data-reveal="" className="mt-8 grid gap-5 rounded-[2rem] bg-[#17191f] p-5 text-white lg:grid-cols-[0.8fr_1.2fr] lg:p-8">
-          <img src="/assets/asset_pnrd90.jpg" alt="Interior kedai kopi yang nyaman" className="h-80 w-full rounded-3xl object-cover lg:h-full" />
+          <img src="/assets/menu.png" alt="Interior kedai kopi yang nyaman" className="h-80 w-full rounded-3xl object-cover lg:h-full" />
           <div className="flex flex-col justify-center rounded-3xl bg-white/5 p-6">
             <p className="text-xs font-semibold uppercase tracking-[0.18em] text-[#c7966e]">Bukti nyata</p>
             <p className="mt-5 text-4xl font-light leading-tight tracking-tight sm:text-5xl" style={{ fontFamily: "'Instrument Serif', Georgia, serif" }}>
